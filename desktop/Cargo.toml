@@ -1,0 +1,8 @@
+[package]
+name = "saileach_airgid"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "saileach_airgid"
+path = "src/main.rs"
