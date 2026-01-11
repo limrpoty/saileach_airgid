@@ -3,7 +3,4 @@ resolver = "2"
 
 members = [
     "desktop",
-    "crates/nexus",
-    "crates/app",
-    "crates/infra",
-    "crates/security"]
+    "crates/*"]
